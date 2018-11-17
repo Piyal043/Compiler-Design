@@ -1,8 +1,0 @@
-void main_function LP   RP
-LB
-int  a cm a cm  b cm c sm
-
-1 ++ 8 // 4 ** 4 sm
-a <- 18 -- 15 ++ 8 // 2 ** 5 sm
-	
-RB
