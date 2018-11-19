@@ -1,0 +1,17 @@
+v_int main : lfb rfb
+lsb
+	v_int d as 11 comma c as 12 fs
+	b as c fs 
+ploop lfb a as 1 comma 10 rfb 
+lsb 
+a 
+rsb 
+a as 2
+switch lfb a rfb
+lsb
+case 1 :: a
+case 2 :: aba
+case 3 :: a
+rsb
+	
+rsb
